@@ -1,14 +1,14 @@
 
-
 .container{
     height: 1024px;
     width: 768px;
-
+text-align: center;
     background-color: gray;
+
 }
 
 .box-1{ 
 
-    background-color: darkgreen;
+    background-color: rgb(131, 102, 48);
     
 }
