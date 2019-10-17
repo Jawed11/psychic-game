@@ -18,6 +18,7 @@ LossesText.innerHTML=("Losses: "+ Losses)
 document.getElementById("Guesses-Left").innerHTML=("Guesses-Left: "+ GuessesLeft)
 for (i = 0; i <= 10; i++) {
 
+    
 }
 
 
