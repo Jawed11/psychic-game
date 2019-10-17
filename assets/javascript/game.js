@@ -22,7 +22,6 @@ for (i = 0; i <= 10; i++) {
 }
 
 
-
 document.onkeyup = function (event) {
     userText = event.key;
     if (userText == computerGuess) {
